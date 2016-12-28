@@ -1,0 +1,87 @@
+@font-face {
+    font-family: 'TTDrugs-Thin';
+    src: url('../fonts/TTDrugs-Thin.eot');
+    src: url('../fonts/TTDrugs-Thin.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/TTDrugs-Thin.woff') format('woff'),
+         url('../fonts/TTDrugs-Thin.otf') format('truetype'),
+         url('../fonts/TTDrugs-Thin.svg#cuprumffuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dewberry bold';
+    src: url('../fonts/Dewberry bold.ttf');
+    src: url('../fonts/Dewberry bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Dewberry bold.woff') format('woff'),
+         url('../fonts/Dewberry bold.otf') format('truetype'),
+         url('../fonts/Dewberry bold.svg#cuprumffuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dewberry italic bold';
+    src: url('../fonts/Dewberry italic bold.ttf');
+    src: url('../fonts/Dewberry italic bold.ttf?#iefix') format('embedded-opentype'),
+         url('../fonts/Dewberry italic bold.woff') format('woff'),
+         url('../fonts/Dewberry italic bold.otf') format('truetype'),
+         url('../fonts/Dewberry italic bold.svg#cuprumffuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dewberry italic';
+    src: url('../fonts/Dewberry italic.ttf');
+    src: url('../fonts/Dewberry italic.ttf?#iefix') format('embedded-opentype'),
+         url('../fonts/Dewberry italic.woff') format('woff'),
+         url('../fonts/Dewberry italic.otf') format('truetype'),
+         url('../fonts/Dewberry italic.svg#cuprumffuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Dewberry regular';
+    src: url('../fonts/Dewberry regular.ttf');
+    src: url('../fonts/Dewberry regular?#iefix') format('embedded-opentype'),
+         url('../fonts/dewberry_regular-webfont.woff') format('woff'),
+         url('../fonts/Dewberry regular.otf') format('truetype'),
+         url('../fonts/Dewberry regular.svg#cuprumffuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kelson Sans Light RU';
+    src: url('../fonts/Kelson Sans Light RU.otf');
+    src: url('../fonts/Kelson Sans Light RU.otf?#iefix') format('embedded-opentype'),
+         url('../fonts/Kelson Sans Light RU.woff') format('woff'),
+         url('../fonts/Kelson Sans Light RU.otf') format('truetype'),
+         url('../fonts/Kelson Sans Light RU.svg#cuprumffuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kelson Sans Regular RU';
+    src: url('../fonts/Kelson Sans Regular RU.otf');
+    src: url('../fonts/Kelson Sans Regular RU.otf?#iefix') format('embedded-opentype'),
+         url('../fonts/Kelson Sans Regular RU.woff') format('woff'),
+         url('../fonts/Kelson Sans Regular RU.otf') format('truetype'),
+         url('../fonts/Kelson Sans Regular RU.svg#cuprumffuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kelson Sans Bold RU';
+    src: url('../fonts/Kelson Sans Bold RU.otf');
+    src: url('../fonts/Kelson Sans Bold RU.ttf?#iefix') format('embedded-opentype'),
+         url('../fonts/Kelson Sans Bold RU.woff') format('woff'),
+         url('../fonts/Kelson Sans Bold RU.otf') format('truetype'),
+         url('../fonts/Kelson Sans Bold RU.svg#cuprumffuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
